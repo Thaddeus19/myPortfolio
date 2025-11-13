@@ -1,0 +1,8 @@
+.env
+node_modules
+Agent.md
+pnpm-lock.yaml
+pnpm-workspace.yaml
+.pnpm-store
+.next
+.DS_Store
