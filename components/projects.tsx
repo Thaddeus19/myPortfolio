@@ -29,6 +29,12 @@ const projectGroups: ProjectGroup[] = [
         badges: ["Solidity", "Chainlink", "Foundry"],
       },
       {
+        name: "My Blockchain Project",
+        detail: "Blockchain developed in Go.",
+        link: "https://github.com/Thaddeus19/MyBlockchain",
+        badges: ["Go Lang", "Javascript", "HTML"],
+      },
+      {
         name: "NFTContracts with Foundry",
         detail: "Optimized ERC-721 contracts with roles, reveal flows, and reusable launch tooling.",
         link: "https://github.com/Thaddeus19/NFTContracts_with_Foundry",
